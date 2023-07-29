@@ -1,5 +1,3 @@
-`$ cat README.md`
-
 ---
 <body style="background-color: #faeee7;">
 <div align="center">
