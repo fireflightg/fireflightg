@@ -1,21 +1,11 @@
 `$ cat README.md`
 
 ---
-
+<body style="background-color: #faeee7;">
 <div align="center">
-    <a href="https://pronoundb.org/">
-        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F614b68364828524b8a3a121f&style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
-    </a>
-    &nbsp;
-    <a href="https://en.wikipedia.org/wiki/Ages_of_consent_by_country">
-        <img src="https://img.shields.io/badge/age-13-cba6f7?style=for-the-badge&labelColor=1e1e2e">
-    </a>
-</div>
-
-<div align="center">
-    <h3>👋 Hello, I'm oncite</h3>
+    <h3>👋 Hi my name is oncite</h3>
     I'm a 20 year old .
-    <h3>📚 Languages / Frameworks I Know</h3>
+    <h3>📚 Languages / Frameworks</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=powershell,jquery,bash,express,css,nextjs,html,js,md,nodejs,mongodb,react,tailwind,angular,ts,sass,webpack,threejs&perline=13">
     </a>
@@ -28,19 +18,39 @@
 <br/>
 <br/>
 
+
 <div align="center">
-    <a href="https://discord.com/users/853550207039832084">
-        <img src="https://lanyard.cnrad.dev/api/853550207039832084?bg=181825&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20rn%20%3A%29&showDisplayName=true" />
+    <a href="https://pronoundb.org/">
+        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F614b68364828524b8a3a121f&style=for-the-badge&labelColor=%231e1e2e&color=ff6e6c">
     </a>
     &nbsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Gabe616&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
+    <a href="https://en.wikipedia.org/wiki/Ages_of_consent_by_country">
+        <img src="https://img.shields.io/badge/age-20-ff6e6c?style=for-the-badge&labelColor=%231e1e2e">
     </a>
 </div>
 
 <br/>
 <br/>
 
+<div align="center">
+    <a  href="https://discord.com/users/853550207039832084">
+        <img width="400px" height="200px" src="https://lanyard.cnrad.dev/api/233264912854548481?bg=33272a&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20rn%20%3A%29&showDisplayName=true" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img  height="200px" src="https://github-readme-stats.vercel.app/api?username=fireflightg&show_icons=true&bg_color=33272a&text_color=ffc6c7&icon_color=ff8ba7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
+    </a>
+</div>
+
+<br/>
+<br/>
+<div align="center">
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img   src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg">
+    </a>
+</div>
 <div align="center">
     <h1>🔗 Links</h1>
     <div>
@@ -52,7 +62,7 @@
             </picture>
         </a>
         &nbsp;
-        <a href="https://discord.com/users/853550207039832084">
+        <a href="https://discord.gg/WjMRCeH9J8">
             <picture width="45" height="45">
                 <source srcset="https://cdn.simpleicons.org/discord/FFF" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://cdn.simpleicons.org/discord/000" media="(prefers-color-scheme: light)" />
@@ -85,4 +95,5 @@
         </a>
     </div>
 </div>
+</body>
 
