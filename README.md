@@ -11,7 +11,7 @@
 </div>
 <div align="center">
     <h3>👋 Hi my name is oncite</h3>
-    I'm a 20 year old .
+    I'm a 20 year old developer, editor, and musician.
     <h3>📚 Languages / Frameworks</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=powershell,jquery,bash,express,css,nextjs,html,js,md,nodejs,mongodb,react,tailwind,angular,ts,sass,webpack,threejs&perline=13">
