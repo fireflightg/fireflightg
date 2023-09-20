@@ -28,7 +28,7 @@
 
 
 
-<div align="center">
+<div onhover="" align="center">
     <a  href="https://discord.com/users/853550207039832084">
         <img width="400px" height="200px" src="https://lanyard.cnrad.dev/api/233264912854548481?bg=0b0b0b&text_color=ffc6c7&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20rn%20%3A%29&showDisplayName=true" />
     </a>
