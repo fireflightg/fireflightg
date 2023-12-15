@@ -37,7 +37,7 @@
         <img  height="200px" src="https://github-readme-stats.vercel.app/api?username=fireflightg&show_icons=true&bg_color=0b0b0b&text_color=ffff&icon_color=1e1e2e&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
     </a>
 </div>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="saahibmohammed" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/saahibmohammed?trk=profile-badge">Saahib Mohammed</a></div>
+
               
 
 <br/>
