@@ -10,7 +10,7 @@
     </a>
 </div>
 <div align="center">
-    <h3>👋 Hi my name is oncite</h3>
+    <h3>👋 Hi my name is Saahib</h3>
     I'm a 20 year old developer, editor, and musician.
     <h3>📚 Languages / Frameworks</h3>
     <a href="https://skillicons.dev">
