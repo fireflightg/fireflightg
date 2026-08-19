@@ -6,12 +6,12 @@
     </a>
     &nbsp;
     <a href="https://en.wikipedia.org/wiki/Ages_of_consent_by_country">
-        <img src="https://img.shields.io/badge/age-21-0b0b0b?style=for-the-badge&labelColor=%231e1e2e">
+        <img src="https://img.shields.io/badge/age-23-0b0b0b?style=for-the-badge&labelColor=%231e1e2e">
     </a>
 </div>
 <div align="center">
     <h3>👋 Hi my name is Saahib</h3>
-    I'm a 22 year old developer, editor, and musician.
+    I'm a 23 year old developer, editor, and musician.
     <h3>📚 Languages / Frameworks</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=powershell,jquery,bash,express,css,nextjs,html,js,md,nodejs,mongodb,react,tailwind,angular,ts,sass,webpack,threejs&perline=13">
